@@ -3,6 +3,6 @@ repo_version=1
 mode=archive-z2
 
 [remote "vibbles"]
-gpg-verify=true
-gpg-verify-summary=true
-url=https://github.com/winniepoon/vibbles/vibbles.flatpakrepo
+gpg-verify=false
+gpg-verify-summary=false
+url=https://github.com/winniepoon/vibbles/vibbles.git
