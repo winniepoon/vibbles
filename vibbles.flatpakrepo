@@ -1,6 +1,6 @@
 [Flatpak Repo]
 Title=vibbles
-Url=https://github.com/winniepoon/vibbles/
+Url=https://raw.githubusercontent.com/winniepoon/vibbles/master/vibbles.flatpakrepo/
 Homepage=https://github.com/
 Comment=Repository of Flatpak applications
 Description=Repository of Flatpak applications
